@@ -1,5 +1,5 @@
 # 💫 About Me:
-	•	⚙️ Backend: Node.js, Python, Spring boot, .NET – creating APIs, microservices, and efficient data pipelines.<br>	•	🌐 Frontend: React, NEXT js – crafting intuitive UIs that deliver seamless user experiences.<br>	•	☁️ Cloud: AWS Certified (Solutions Architect Associate) – deploying and scaling apps in the cloud.<br>	•	📦 Databases: SQL, NoSQL (MongoDB, DynamoDB) – designing data models and optimizing queries.
+⚙️ Backend: Node.js, Python, Spring boot, .NET – creating APIs, microservices, and efficient data pipelines.<br>🌐 Frontend: React, NEXT js – crafting intuitive UIs that deliver seamless user experiences.<br>☁️ Cloud: AWS Certified (Solutions Architect Associate) – deploying and scaling apps in the cloud.<br>📦 Databases: SQL, NoSQL (MongoDB, DynamoDB) – designing data models and optimizing queries.
 
 
 ## 🌐 Socials:
